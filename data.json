@@ -1,1 +1,4 @@
-{"number": 5, "timestamp": 1766004314}
+{
+  "tamagotchi_A": {"number": 0, "timestamp": 0},
+  "tamagotchi_B": {"number": 0, "timestamp": 0}
+}
